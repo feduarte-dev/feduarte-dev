@@ -7,7 +7,7 @@
 
 <h3>💁‍♂️  about me</h3>
 
-<p> I'm currently residing in Brazil. I am in the midst of an exciting career transition – I've shifted from a background in physical education to pursuing a new path as a web developer. My journey into the world of Information Technology began in March of 2023, and I've been captivated by the endless possibilities ever since.
+<p> I'm currently residing in Brazil. I am in the midst of an exciting career transition – I've shifted from a background in physical education to pursuing a new path as a web developer. My journey into the world of Information Technology began in early 2023, and I've been captivated by the endless possibilities ever since.
 
 I thrive on the challenge of working on both front-end and back-end components, creating holistic digital experiences. I'm a strong advocate of Agile methodologies, as they align perfectly with my mindset of iterative development and continuous improvement. This approach allows me to adapt and evolve as I dive deeper into the realm of web development.
 

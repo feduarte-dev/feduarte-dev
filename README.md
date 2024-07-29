@@ -33,6 +33,7 @@ While my days are filled with coding and problem-solving, I make sure to balance
 
 <h3>⚙️ techs & tools: </h3>
 <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" height="36"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="36" height="36"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36"/>

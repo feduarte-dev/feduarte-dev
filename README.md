@@ -7,7 +7,7 @@
 
 <h3>💁‍♂️  about me</h3>
 
-<p> I'm currently residing in Brazil. I am in the midst of an exciting career transition – I've shifted from a background in physical education to pursuing a new path as a web developer. My journey into the world of Information Technology began in early 2023, and I've been captivated by the endless possibilities ever since.
+<p> I'm currently residing in Brazil. I am in the midst of an exciting career transition – I've shifted from a background in physical education to pursuing a new path as a web developer. My journey into the world of Information Technology began in early 2022, and I've been captivated by the endless possibilities ever since.
 
 I thrive on the challenge of working on both front-end and back-end components, creating holistic digital experiences. I'm a strong advocate of Agile methodologies, as they align perfectly with my mindset of iterative development and continuous improvement. This approach allows me to adapt and evolve as I dive deeper into the realm of web development.
 
@@ -33,6 +33,21 @@ While my days are filled with coding and problem-solving, I make sure to balance
 
 <h3>⚙️ techs & tools: </h3>
 <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="36" height="36"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" height="36"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" width="36" height="36"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="36" height="36"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="36" height="36"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-plain.svg" width="36" height="36"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="36" height="36"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="36" height="36"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="36" height="36"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-plain.svg" width="36" height="36"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-plain.svg" width="36" height="36"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="36" height="36"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" height="36"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="36" height="36"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36"/>

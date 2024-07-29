@@ -9,7 +9,8 @@
 
 Hey there! I've been working as software developer for two years, during this time, I've developed a lot of full-stack applications, responsive web pages, and RESTful APIs. I've been doing freelance work since three weeks after my first "Hello, World".
 
-Main Technologies
+<h3>💻 Main Technologies</h3>
+
 Python | Node.js | React | MySQL | Redux | Django | Docker | Pytest | CSS3 | Mocha | Chai | Sinon | FlaskAPI | Next.js | Typescript | FastAPI | Tailwind | Jest | RTL | Scrum | Kanban | HTML | Javascript | Express | JWT | Sequelize | PostgreSQL | Bootstrap | Git | Linux | Github
 
 I made a career shift from the healthcare industry, where I gained over a decade of experience taking care of people and handling pressure effectively. I've been able to apply these skills and knowledge to my new role in the tech industry.

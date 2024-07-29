@@ -7,13 +7,15 @@
 
 <h3>💁‍♂️  about me</h3>
 
-<p> I'm currently residing in Brazil. I am in the midst of an exciting career transition – I've shifted from a background in physical education to pursuing a new path as a web developer. My journey into the world of Information Technology began in early 2022, and I've been captivated by the endless possibilities ever since.
+Hey there! I've been working as software developer for two years, during this time, I've developed a lot of full-stack applications, responsive web pages, and RESTful APIs. I've been doing freelance work since three weeks after my first "Hello, World".
 
-I thrive on the challenge of working on both front-end and back-end components, creating holistic digital experiences. I'm a strong advocate of Agile methodologies, as they align perfectly with my mindset of iterative development and continuous improvement. This approach allows me to adapt and evolve as I dive deeper into the realm of web development.
+Main Technologies
+Python | Node.js | React | MySQL | Redux | Django | Docker | Pytest | CSS3 | Mocha | Chai | Sinon | FlaskAPI | Next.js | Typescript | FastAPI | Tailwind | Jest | RTL | Scrum | Kanban | HTML | Javascript | Express | JWT | Sequelize | PostgreSQL | Bootstrap | Git | Linux | Github
 
-While my days are filled with coding and problem-solving, I make sure to balance my time by indulging in my passions outside of work. When I'm not immersed in lines of code, you'll likely find me killing monster in D&D or playing beach volleyball. These activities not only recharge my energy but also remind me of the importance of teamwork and collaboration.
+I made a career shift from the healthcare industry, where I gained over a decade of experience taking care of people and handling pressure effectively. I've been able to apply these skills and knowledge to my new role in the tech industry.
 
-</p>
+You can check out my work here:
+https://www.feduarte.dev/
 
 <br>
 <hr>

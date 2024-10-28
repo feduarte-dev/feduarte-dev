@@ -27,8 +27,8 @@ https://www.feduarte.dev/
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=feduarte-dev&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"  height='180em'/>
 </div>
 <br>
-<div align='center'>
-    <img src="https://github-profile-trophy.vercel.app/?username=feduarte-dev&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" height='250em' />
+<div align="center" >
+    <img src="https://github-profile-trophy.vercel.app/?username=feduarte-dev&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
 </div>
 
 <br>
